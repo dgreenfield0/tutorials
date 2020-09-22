@@ -16,3 +16,6 @@
     - Extra
         - Create a User class and load the content from JSON into a list of User(s))
         - Output out the User(s) data.
+
+### Useful links
+- https://realpython.com/read-write-files-python/

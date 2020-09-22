@@ -19,3 +19,7 @@
 
 ### Useful links
 - https://realpython.com/read-write-files-python/
+
+### Layout
+- The text files for the above lessons are under the python_1 directory (https://github.com/dgreenfield0/tutorials/tree/main/python_1)
+- The answer folder contains scripts (with possible solutions), in case you are stuck (they are complete).
